@@ -4,7 +4,7 @@
 ***
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+I am studying Data Science at Lambda School. I love to analyse and explore data. The thing that fascinates me the most is how we can manipulate the data and engineer things to learn not just the past, but the future as well. 
 
 
 ### 🛠 &nbsp;Tech Stack
