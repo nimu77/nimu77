@@ -24,9 +24,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
 
-### 🤝🏻 Connect with Me 
+<hr>
 
-![LinkedIn](https://www.linkedin.com/in/nirmalsthapa/)
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nirmalsthapa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nirmal%20Ed-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:edamer.mo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-edamer.mo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
