@@ -26,7 +26,7 @@
 
 ### 🤝🏻 Connect with Me 
 
-- ![LinkedIn](https://www.linkedin.com/in/nirmalsthapa/)
+![LinkedIn](https://www.linkedin.com/in/nirmalsthapa/)
 
 <a href="mailto:edamer.mo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-edamer.mo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
