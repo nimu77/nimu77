@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Nirmal
+### I'm Nirmal
 ***
 
 ### 👨🏻‍💻 &nbsp;About Me
